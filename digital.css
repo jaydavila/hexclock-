@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #eee;
+}
+
+html, body {
+    height: 100%;
+}
+
+#hexClock {
+    position: relative;
+    height: 100px;
+    top: 45%;
+    margin-top: -50px;
+    text-align: center;
+}
+
+#time {
+    font-size: 150px;
+    font-family: 'Sonsie One', cursive;
+    text-shadow: 10px 10px 20px black, 0 0 25px blue, 0 0 50px darkblue;
+
+}
+
+/* #hexColor {
+    margin-top: 50px;
+    font-family: 'Sonsie One', cursive;
+    text-shadow: 2px 2px 4px #000000;
+} */
